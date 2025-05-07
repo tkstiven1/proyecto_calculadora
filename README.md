@@ -27,19 +27,8 @@ su principal objetivo es poder desarrollar operaciones basicas de matematicas y 
 
 ### **▶️ Como ejecutar nuestro proyecto:**
 
-* 🔓 Abre la carpeta del proyecto.
-
-    + En Visual Studio Code, haz clic en Archivo > Abrir carpeta...
-
-    + Selecciona la carpeta donde guardaste los archivos del proyecto (por ejemplo, donde están vista.html, calculadora.js, etc.).
-
-* 🧩 Verifica que tienes instalado Live Server.
-
-    + Dirígete a la pestaña de Extensiones (ícono de cuadrados en la barra lateral izquierda).
-
-    + Busca Live Server en la barra de búsqueda.
-
-    + Si no está instalado, haz clic en Instalar.
+* 🔓 Abre la carpeta del proyecto en Visual Studio Code, haz clic en Archivo > Abrir carpeta.
+Selecciona la carpeta donde guardaste los archivos del proyecto (por ejemplo, donde están vista.html, calculadora.js, etc.).
 
 * 📂 Abre el archivo vista.html.
 
@@ -56,7 +45,7 @@ su principal objetivo es poder desarrollar operaciones basicas de matematicas y 
 🎉 ¡Listo!
 Ahora puedes usar la calculadora directamente desde el navegador, ingresar dos números y seleccionar una operación para ver el resultado en pantalla.
 
-### 👩‍💻 Autores y creditos:
-* 👩‍💻 Desarroldaora web **Ana Galarza** 
+### 👩‍💻 Autores:
+* 👩‍💻 Desarrolladora web **Ana Galarza** 
 
 * 👩‍💻 Desarollador web y de documentacion **ian Carpeta** 
